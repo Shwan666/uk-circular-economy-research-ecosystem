@@ -1,0 +1,5 @@
+﻿transition_type,n_projects,project_%
+Disciplinary -> Disciplinary,50,11.312217194570136
+Disciplinary -> Interdisciplinary,92,20.81447963800905
+Interdisciplinary -> Disciplinary,118,26.69683257918552
+Interdisciplinary -> Interdisciplinary,182,41.17647058823529
