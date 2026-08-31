@@ -1,0 +1,27 @@
+openalex_field,publication_count,common_discipline
+Engineering,2165,Engineering & Manufacturing
+Materials Science,1081,Materials & Chemistry
+Environmental Science,668,Environmental & Earth Sciences
+Chemistry,513,Materials & Chemistry
+"Biochemistry, Genetics and Molecular Biology",270,"Life, Agricultural & Health Sciences"
+Energy,264,Energy
+Chemical Engineering,205,Engineering & Manufacturing
+Earth and Planetary Sciences,182,Environmental & Earth Sciences
+Computer Science,172,Computer & Quantitative Sciences
+Agricultural and Biological Sciences,155,"Life, Agricultural & Health Sciences"
+"Business, Management and Accounting",126,"Social Sciences, Business & Economics"
+Medicine,113,"Life, Agricultural & Health Sciences"
+Physics and Astronomy,72,Materials & Chemistry
+Nursing,57,"Life, Agricultural & Health Sciences"
+Social Sciences,50,"Social Sciences, Business & Economics"
+Decision Sciences,25,Computer & Quantitative Sciences
+"Pharmacology, Toxicology and Pharmaceutics",21,"Life, Agricultural & Health Sciences"
+Arts and Humanities,19,"Arts, Humanities & Behavioural Sciences"
+Psychology,18,"Arts, Humanities & Behavioural Sciences"
+Neuroscience,17,"Life, Agricultural & Health Sciences"
+"Economics, Econometrics and Finance",15,"Social Sciences, Business & Economics"
+Health Professions,13,"Life, Agricultural & Health Sciences"
+Immunology and Microbiology,8,"Life, Agricultural & Health Sciences"
+Mathematics,4,Computer & Quantitative Sciences
+Dentistry,3,"Life, Agricultural & Health Sciences"
+Veterinary,2,"Life, Agricultural & Health Sciences"
